@@ -1,0 +1,19 @@
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_background 
+{
+  background-image: url("https://images.pexels.com/photos/2693212/pexels-photo-2693212.png?auto=compress&cs=tinysrgb&dpr=1&w=500");
+  background-position: center;
+  background-size: cover;
+}
+
+#myCanvas
+{
+  border-width: 5px;
+  background-color: white;
+  border-style: solid;
+  border-color: rgb(77, 75, 75);
+}
